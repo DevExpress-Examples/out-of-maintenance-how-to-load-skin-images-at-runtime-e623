@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/SkinImages/Form1.cs) (VB: [Form1.vb](./VB/SkinImages/Form1.vb))**
+* [Program.cs](./CS/SkinImages/Program.cs) (VB: [Program.vb](./VB/SkinImages/Program.vb))
+<!-- default file list end -->
 # How to load skin images at runtime
 
 
